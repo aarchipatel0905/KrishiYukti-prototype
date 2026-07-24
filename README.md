@@ -1,6 +1,14 @@
 
 # 🌾 KrishiYukti – AI Powered Smart Farming Assistant
 
+## 🌐 Live Demo
+
+**Live Website:** https://krishiyukti-prototype.vercel.app/
+
+## 📂 GitHub Repository
+
+https://github.com/divyahchauhan108/KrishiYukti-prototype
+
 ## 📖 Overview
 
 KrishiYukti is an AI-powered AgriTech platform developed for the NUV ISEN TetraThon Hackathon 2026.

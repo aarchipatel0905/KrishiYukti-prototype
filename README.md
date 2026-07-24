@@ -1,3 +1,4 @@
+
 # 🌾 KrishiYukti – AI Powered Smart Farming Assistant
 
 ## 📖 Overview
@@ -85,3 +86,4 @@ Helping Indian farmers make better decisions using AI-powered crop advisory, dis
 ---
 
 Developed for **NUV ISEN TetraThon 2026**
+

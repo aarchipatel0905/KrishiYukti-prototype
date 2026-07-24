@@ -1,13 +1,12 @@
 import React from 'react';
-import klogo from '../../klogo.jpeg';
 
 export function Logo({ className = "" }: { className?: string }) {
   return (
-    <div className={`h-12 w-12 rounded-full overflow-hidden border-2 border-emerald-700 bg-white shadow-sm flex items-center justify-center shrink-0 ${className}`}>
+    <div className={`h-10 w-10 rounded-full overflow-hidden flex items-center justify-center shrink-0 bg-white ${className}`}>
       <img 
-        src={klogo} 
+        src="/klogo.jpeg" 
         alt="KrishiYukti Logo" 
-        className="h-full w-full object-cover scale-110" 
+        className="h-full w-full object-contain" 
       />
     </div>
   );
